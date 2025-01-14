@@ -7,7 +7,7 @@
 4. run `npm start` to see the app locally
 
 ## Steps to build your own web-app
-1. Configure github pages to build from the `/docs` folder in the root directory on the `main` branch. This is done from the github Settings in the browser, not in the codebase
+1. Configure github pages to build from the `/docs` folder in the root directory on the `main` branch. This is done from the github Settings in the browser, not in the codebase. You can see an example screenshot of the appropriate settings [here](https://github.com/spencer-carver/github-pages-template/issues/1)
 2. Make any changes to the contents of the page (search "Hello World" to find the optimal place to make changes). Save changes
 3. `npm run build` will create the static export for github-pages.
 4. Commit changes and push to github pages. The new changeset should be avaiable within a minute.
